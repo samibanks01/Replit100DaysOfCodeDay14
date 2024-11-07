@@ -1,3 +1,5 @@
+from getpass import getpass as input
+
 print("Epic Rock, Paper & Scissors Game")
 
 print()
